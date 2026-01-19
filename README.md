@@ -4,7 +4,7 @@
 
 El proyecto destaca por su capacidad de analizar metadatos técnicos y extraer carátulas incrustadas directamente de los bits de los archivos de audio (FLAC/MP3) sin usar librerías como `getID3`.
 
-![Screenshot del Reproductor](https://via.placeholder.com/800x450?text=Agrega+una+captura+de+pantalla+aqui)
+![Screenshot del Reproductor](captura.png)
 
 ## 🚀 Características
 
